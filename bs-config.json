@@ -1,0 +1,10 @@
+{
+	"files": ["./**/*.{html,htm,css,js,scss,sass}"],
+	"watchOptions": {
+		"ignored": ["node_modules"]
+	},
+	"server": {
+		"baseDir": "./",
+		"middleware": []
+	}
+}
